@@ -7,7 +7,7 @@ Release:	1
 License:	GPL v2
 Group:		Fonts
 Source0:	http://dl.sourceforge.net/artwizaleczapka/%{_tarname}-%{version}.tar.bz2
-# Source0-md5:	bb22bd5b4675f5dbe17c6963d8c00ed6
+# Source0-md5:	6c6c704f2f08f9d6308d366423dfa90e
 URL:		http://artwizaleczapka.sourceforge.net/
 Requires(post,postun):	fontpostinst
 Requires:	%{_fontsdir}/misc
