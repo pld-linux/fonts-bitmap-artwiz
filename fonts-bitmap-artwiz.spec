@@ -1,6 +1,6 @@
 %define		_tarname	artwiz-aleczapka-en
 Summary:	Artwiz aleczapka bitmap fonts
-Summary(pl):	Fonty bitmapowe artwiz aleczapka
+Summary(pl.UTF-8):   Fonty bitmapowe artwiz aleczapka
 Name:		fonts-bitmap-artwiz
 Version:	1.3
 Release:	1
@@ -19,7 +19,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 This package contains artwiz aleczapka bitmap fonts (PCF).
 
-%description -l pl
+%description -l pl.UTF-8
 Pakiet ten zawiera bitmapowe (PCF) fonty artwiz aleczapka.
 
 %prep
