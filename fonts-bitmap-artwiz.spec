@@ -1,6 +1,6 @@
 %define		_tarname	artwiz-aleczapka-en
 Summary:	Artwiz aleczapka bitmap fonts
-Summary(pl.UTF-8):   Fonty bitmapowe artwiz aleczapka
+Summary(pl.UTF-8):	Fonty bitmapowe artwiz aleczapka
 Name:		fonts-bitmap-artwiz
 Version:	1.3
 Release:	1
